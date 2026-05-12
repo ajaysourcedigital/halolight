@@ -147,6 +147,7 @@ pnpm test:coverage # 运行测试并生成覆盖率报告
 点击一键部署到 Vercel：
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/dext7r/halolight)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=halolight/halolight&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 ### 自托管部署
 
